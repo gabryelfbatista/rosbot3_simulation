@@ -4,4 +4,4 @@
 #
 # Author: Helio Perroni Filho
 
-rm -fr "make/*"
+rm -fr make/*
