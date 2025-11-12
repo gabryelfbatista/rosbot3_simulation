@@ -7,7 +7,6 @@ Repositório principal desenvolvido durante a disciplina de robótica para conso
 - `src/ros_commons`: macros e utilidades reutilizáveis (sensores, controlador skid-steer, layouts do RQT).
 - `src/rosbot3_gazebo`: integração com o Gazebo incluindo launch de simulação, mundos e ajustes específicos.
 - `scripts/`: utilitários para configurar o ambiente (`setup.bash`), compilar (`make.sh`) e limpar (`make_clean.sh`), além do `download_gazebo_models.sh`.
-- `make/`: diretório gerenciado pelos scripts para builds e artefatos intermediários.
 
 Todos os pacotes são mantidos também como submódulos Git, permitindo versionar cada componente separadamente.
 
