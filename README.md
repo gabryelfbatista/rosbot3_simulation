@@ -10,10 +10,6 @@ Repositório principal desenvolvido durante a disciplina de robótica para conso
 
 Todos os pacotes são mantidos também como submódulos Git, permitindo versionar cada componente separadamente.
 
-## Destaques da disciplina
-- Macro `skid_steer_controller` adicionada em `ros_commons` para controlar as quatro rodas e publicar odometria diretamente no Gazebo.
-- Painel `rqt_steering` já conectado ao launch de simulação, acelerando testes manuais.
-
 ## Como utilizar
 1. Instale `git` e o plugin `git-lfs` antes de clonar o repositório:
    ```bash
