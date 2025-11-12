@@ -4,7 +4,7 @@ Repositório principal desenvolvido durante a disciplina de robótica para conso
 
 ## Estrutura
 - `src/rosbot3_description`: descrição URDF do robô, com sensores e suportes modelados a partir das dimensões reais.
-- `src/ros_commons`: macros e utilidades reutilizáveis (sensores, controlador skid-steer, layouts do RQT).
+- `src/ros_commons`: macros e utilidades reutilizáveis (sensores, controlador skid-steer, layouts do RQT e Rviz).
 - `src/rosbot3_gazebo`: integração com o Gazebo incluindo launch de simulação, mundos e ajustes específicos.
 - `scripts/`: utilitários para configurar o ambiente (`setup.bash`), compilar (`make.sh`) e limpar (`make_clean.sh`), além do `download_gazebo_models.sh`.
 
