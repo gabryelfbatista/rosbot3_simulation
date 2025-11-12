@@ -1,0 +1,9 @@
+[submodule "src/rosbot3_gazebo"]
+	path = src/rosbot3_gazebo
+	url = git@github.com:gabryelfbatista/rosbot3_gazebo.git
+[submodule "src/ros_commons"]
+	path = src/ros_commons
+	url = git@github.com:gabryelfbatista/ros_commons.git
+[submodule "src/rosbot3_description"]
+	path = src/rosbot3_description
+	url = git@github.com:gabryelfbatista/rosbot3_description.git
